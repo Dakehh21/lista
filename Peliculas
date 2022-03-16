@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="*Spider Man Sin Camino a Casa" tvg-logo="https://image.tmdb.org/t/p/original//iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg" group-title="Marvel Peliculas",*Spider Man Sin Camino a Casa
+https://tortoise.jawcloud.co/hls/baxpggu6pvts7n2gmiroognil7dgscfjpdniodoiwf7kribatanvl4qfgj7q/index-v1-a1.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="*Red 2022" tvg-logo="https://image.tmdb.org/t/p/original//fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg" group-title="Peliculas Infantiles",*Red 2022
+https://turtle.jawcloud.co/hls/baxpib4upvts7n2gmiroofhzi46lzmmt62elsctmyrteyl5y4drshz4je3zq/index-v1-a1.m3u8
